@@ -1,5 +1,5 @@
-{
-            { text: "⚠️ Sistema en mantenimiento 15 marzo   ", date: "2025-03-15" },
-            { text: "📢 Nuevo procedimiento de validación disponible 20 marzo", date: "2025-03-20" },
-            { text: "📅 La fecha límite de reportes 25 de marzo", date: "2025-03-25" }
-}
+[
+    { "text": "⚠️ Sistema en mantenimiento 15 marzo", "date": "2025-03-15" },
+    { "text": "📢 Nuevo procedimiento de validación disponible 20 marzo", "date": "2025-03-20" },
+    { "text": "📅 La fecha límite de reportes 25 de marzo", "date": "2025-03-25" }
+]
